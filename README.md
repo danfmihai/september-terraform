@@ -1,2 +1,0 @@
-# september-terraform
-terraform aws
